@@ -10,13 +10,18 @@
   padding-top:40px;
 }
 
-.title, .name, .subtitle {
+.title {
     color:#e5d660;
+}
+
+.name, .subtitle {
+color:rgba(64,99,35,0.7);
+font-weight:bold;
 }
 
 li {
   list-style-type: none;
-  background-color:#426b25;
+  background-image: linear-gradient(to right, rgba(64,99,35,0.5), rgba(168,224,99,1));
 }
 
 ul {
