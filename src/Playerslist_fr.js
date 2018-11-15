@@ -33,6 +33,7 @@ export class Players_Fr extends React.Component {
         name : "Terence Tarlier",
         team : "Valliant",
         main : "DPS",
+        pays : "France",
         photo : "https://bnetcmsus-a.akamaihd.net/cms/page_media/E29MO86JEHJD1512776701352.png",
         description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
@@ -43,6 +44,7 @@ export class Players_Fr extends React.Component {
         name : "Jun-Hyeok Chae",
         team : "Valliant",
         main : "DPS",
+        pays : "France",
         photo : "https://bnetcmsus-a.akamaihd.net/cms/page_media/5UTQTAH91AP81523496424343.png",
         description :  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
@@ -53,6 +55,7 @@ export class Players_Fr extends React.Component {
         name : "Kyle Frandanisa",
         team : "Valliant",
         main : "DPS",
+        pays : "France",
         photo :"https://bnetcmsus-a.akamaihd.net/cms/page_media/sq/SQ26X07IYE2M1524801717474.png",
         description :  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
@@ -63,6 +66,7 @@ export class Players_Fr extends React.Component {
         name : "Brady Girardi",
         team : "Valliant",
         main : "DPS",
+        pays : "France",
         photo :"https://bnetcmsus-a.akamaihd.net/cms/page_media/47PKEMP7FWAQ1512776700755.png",
         description :  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
@@ -73,6 +77,7 @@ export class Players_Fr extends React.Component {
         name : "Scott Kennedy",
         team : "Valliant",
         main : "Healer",
+        pays : "France",
         photo :"https://bnetcmsus-a.akamaihd.net/cms/gallery/5BKHVJ9PGEFR1522979605000.png",
         description :  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
@@ -83,6 +88,7 @@ export class Players_Fr extends React.Component {
         name : "Pan-Seung Koo",
         team : "Valliant",
         main : "Tank",
+        pays : "France",
         photo :"https://bnetcmsus-a.akamaihd.net/cms/page_media/3SWJQYWMYTV11512776700780.png",
         description :  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
@@ -93,6 +99,7 @@ export class Players_Fr extends React.Component {
         name : "Minchul Kim",
         team : "Valliant",
         main : "Flexible",
+        pays : "France",
         photo :"https://bnetcmsus-a.akamaihd.net/cms/page_media/JPTPX2S7UOZY1526600595484.png",
         description :  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
@@ -103,6 +110,7 @@ export class Players_Fr extends React.Component {
         name : "Young-Seo Park",
         team : "Valliant",
         main : "Flexible",
+        pays : "France",
         photo :"https://bnetcmsus-a.akamaihd.net/cms/page_media/6QOV26CVECXE1512776701055.png",
         description :  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
       },
@@ -112,6 +120,7 @@ export class Players_Fr extends React.Component {
         name : "Indy Halpern",
         team : "Valliant",
         main : "Flexible",
+        pays : "France",
         photo :"https://bnetcmsus-a.akamaihd.net/cms/page_media/BP0XDXDMWZ421512776701354.png",
         description :  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
@@ -128,13 +137,29 @@ export class Players_Fr extends React.Component {
             <Panel.Body collapsible>
               <Grid>
                 <Row>
-                  <Col xs={5} md={6}>
-                    <Image src={player.photo}
+                  <Col xs={5} md={6} id="infos">
+
+                  <Image src='img/France.png'
+                        height='30px'
+                        width='30px' id="flag"/>
+                        <Image src='img/valliant.png'
+                              height='50px'
+                              width='50px' id='team'/>
+
+                    <Image  src={player.photo}
                             height='300px'
-                            width='300px'/>
+                            width='300px' id="player" circle />
                   </Col>
-                </Row>
-                <Row>
+                  </Row>
+                  <Row>
+                    <Col xs={5} md={4} id="line">
+
+                      <Image src='img/dps.png'
+                            height='50px'
+                            width='50px' id='main'/>
+                    </Col>
+                  </Row>
+                  <Row>
                   <Col xs={5} md={6} id="desc">
                     {player.description}
                   </Col>

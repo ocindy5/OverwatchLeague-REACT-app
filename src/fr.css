@@ -14,17 +14,29 @@
     color:#e5d660;
 }
 
-#accordion {
-  background-image: linear-gradient(to right, rgba(64,99,35,0.5), rgba(168,224,99,1)) !important;
-}
-
-img {
+#player {
   margin-left:80%;
-  margin-bottom:8%;
+  margin-bottom:3%;
+  margin-top:-10%;
 }
 
 #desc {
 margin-left:26%;
 text-align:justify;
 font-size:1.5em;
+}
+
+#main {
+  margin-top:2%;
+}
+
+#flag {
+margin-left:80%;
+}
+
+#line {
+  height:60px;
+  width:300px;
+  margin-left:39%;
+  margin-bottom:1%;
 }
