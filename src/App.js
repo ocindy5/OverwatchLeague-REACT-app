@@ -4,7 +4,7 @@ import { Players_Fr } from './Playerslist_fr.js';
 import './App.css';
 import PropTypes from "prop-types";
 import './fr.css';
-
+import Panel from 'react-bootstrap';
 
 class App extends Component {
 
@@ -16,5 +16,6 @@ class App extends Component {
     );
   }
 }
+
 
 export default App;

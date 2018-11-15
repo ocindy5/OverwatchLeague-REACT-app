@@ -14,32 +14,17 @@
     color:#e5d660;
 }
 
-.name, .subtitle {
-color:rgba(64,99,35,0.7);
-font-weight:bold;
+#accordion {
+  background-image: linear-gradient(to right, rgba(64,99,35,0.5), rgba(168,224,99,1)) !important;
 }
 
-li {
-  list-style-type: none;
-  background-image: linear-gradient(to right, rgba(64,99,35,0.5), rgba(168,224,99,1));
+img {
+  margin-left:80%;
+  margin-bottom:8%;
 }
 
-ul {
-  padding-left:0;
-  margin-top:0;
-  margin-bottom:0;
-  background-color:#426b25;
-}
-
-.name {
-  font-size:1.5em;
-  margin-bottom:0;
-}
-
-.subtitle {
-  margin-top:0;
-}
-
-hr {
-  color:#e5d660;
+#desc {
+margin-left:26%;
+text-align:justify;
+font-size:1.5em;
 }

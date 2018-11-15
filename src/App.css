@@ -12,6 +12,7 @@
 
 li {
   list-style-type: none;
+  border:1px solid black;
 }
 
 ul {
@@ -27,4 +28,25 @@ ul {
 
 .subtitle {
   margin-top:0;
+}
+
+.collapse {
+  display: none;
+}
+
+.collapse.in {
+  display: block;
+}
+
+.desc_player {
+  width:70%;
+  text-align:justify;
+  padding-left:30%;
+  margin-top:2%;
+  padding-bottom:2%;
+}
+
+.test{
+  color:white;
+  background-color:black;
 }
